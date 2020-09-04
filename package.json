@@ -12,7 +12,7 @@
     "core-js": "^2.6.5",
     "vue": "^2.6.10",
     "vue-lodash": "^2.0.2",
-    "vue-moment": "^4.0.0",
+    "vue-moment": "^4.1.0",
     "vue-moments-ago": "^0.2.0"
   },
   "devDependencies": {
